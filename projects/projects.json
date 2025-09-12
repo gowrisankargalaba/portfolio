@@ -2,7 +2,7 @@
   {
     "name": "Employee Management System",
     "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css, Javascript, Django, Bootstrap, Python, GitHub, PythonAnywhere.",
-    "image": "blog.jpg",
+    "image": "thirteen",
     "category": "webapp",
     "links": {
       "view": "https://gowri3.pythonanywhere.com/",
@@ -13,7 +13,7 @@
   {
     "name": "To do Application ",
     "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css,javascript,django,bootstrap,python,github,pythonanywhere.",
-    "image": "todo",
+    "image": "projects/images/todo.jpg",
     "category": "webapp",
     "links": {
       "view": "https://gowri2.pythonanywhere.com/.",
@@ -23,7 +23,7 @@
   {
     "name": "Employee Management Systems",
     "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css,javascript,django,bootstrap,python,github,Render.",
-    "image": "four",
+    "image": "projects/images/employee.jpg",
     "category": "webapp",
     "links": {
       "view": "https://employeemanagementsystem-7-k5c0.onrender.com/",
