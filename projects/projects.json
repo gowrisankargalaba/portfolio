@@ -1,42 +1,43 @@
 [
   {
-    "name": "Employee Management Systems",
-    "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css,javascript,django,bootstrap,python,github,pythonanywhere.",
-    "image": "empdatabase1",
+    "name": "Employee Management System",
+    "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css, Javascript, Django, Bootstrap, Python, GitHub, PythonAnywhere.",
+    "image": "blog.jpg",
     "category": "webapp",
     "links": {
-      "view": "http://mohana1.pythonanywhere.com/home",
-      "code": "http://github.com/mohanabaswala/employeedatabase"
+      "view": "https://gowri3.pythonanywhere.com/",
+      "code": "https://github.com/gowrisankargalaba/empdatabase"
     }
   },
+
   {
     "name": "To do Application ",
     "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css,javascript,django,bootstrap,python,github,pythonanywhere.",
-    "image": "todoapp1",
+    "image": "todo",
     "category": "webapp",
     "links": {
-      "view": "http://lashmi.pythonanywhere.com .",
-      "code": "http://github.com/mohanabaswala/Todo"
+      "view": "https://gowri2.pythonanywhere.com/.",
+      "code": "https://github.com/gowrisankargalaba/todo1"
     }
   },
   {
-    "name": "Crud Operation",
-    "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css,javascript,django,bootstrap,python,github,pythonanywhere.",
-    "image": "curd-operation1",
+    "name": "Employee Management Systems",
+    "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css,javascript,django,bootstrap,python,github,Render.",
+    "image": "four",
     "category": "webapp",
     "links": {
-      "view": "http://mohana2.pythonanywhere.com ",
-      "code": "http://github.com/mohanabaswala/curd-operations"
+      "view": "https://employeemanagementsystem-7-k5c0.onrender.com/",
+      "code": "https://github.com/gowrisankargalaba/employeemanagementsystem"
     }
   },
   {
-    "name": "Image Upload ",
-    "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css,javascript,django,bootstrap,python,github,pythonanywhere.",
+    "name": "Blog Application",
+    "desc": "Fully Blog Application for creating, updating, and managing blog posts with user authentication and commenting system. Built using Html, Css, Javascript, Django, Bootstrap, Python, GitHub, and PythonAnywhere.",
     "image": "image-upload1",
     "category": "webapp",
     "links": {
-      "view": "http://mohana9.pythonanywhere.com",
-      "code": "http://github.com/mohanabaswala/image-upload"
+      "view": "https://gowrisankargs.pythonanywhere.com/",
+      "code": "https://github.com/gowrisankargalaba/blogapplication"
     }
   },
   {
@@ -45,7 +46,7 @@
     "image": "foodwebsite1",
     "category": "Frontend",
     "links": {
-      "view": "https://Mohanabaswala.github.io/foodieapp/",
+      "view": "https://gowrisankargalaba.github.io/foodieeapplication/",
       "code": "#"
     }
   },
@@ -55,37 +56,27 @@
     "image": "travel-yari1",
     "category": "Frontend",
     "links": {
-      "view": "https://mohanabaswala.github.io/travel-yari/",
+      "view": "https://gowrisankargalaba.github.io/travel-yari/",
       "code": "#"
     }
   },
   {
-    "name": "Login-Form",
-    "desc": "Full-Stack front end Details based on differenet design patterns. Built using Python,Html,Css.",
-    "image": "login-form1",
+    "name": "Most Happening Place",
+    "desc": "Full-Stack front end Details based on differenet design patterns. Built using Html,Css,Bootstrap,js.",
+    "image": "eight",
     "category": "Frontend",
     "links": {
-      "view": "https://mohanabaswala.github.io/login-form/",
+      "view": "https://gowrisankargalaba.github.io/MHP-website/",
       "code": "#"
     }
   },
   {
-    "name": "Table-View1",
-    "desc": "Full-Stack front end Details based on differenet design patterns. Built using Python,Html,Css.",
-    "image": "table-view1",
+    "name": "Fees Calculation Appliaction",
+    "desc": "Full-Stack front end Details based on differenet design patterns. Built using Python,Html,Css,JavaScript.",
+    "image": "blog.jpg",
     "category": "Frontend",
     "links": {
-      "view": "https://mohanabaswala.github.io/table-view1/",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Register-Form",
-    "desc": "Full-Stack front end Details based on differenet design patterns. Built using Python,Html,Css.",
-    "image": "register-form",
-    "category": "Frontend",
-    "links": {
-      "view": "https://mohanabaswala.github.io/register-form/",
+      "view": "https://gowrisankargalaba.github.io/collagefees/",
       "code": "#"
     }
   }
