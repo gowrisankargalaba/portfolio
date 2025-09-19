@@ -2,7 +2,7 @@
     {
       "name": "Employee Management System",
       "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css, Javascript, Django, Bootstrap, Python, GitHub, PythonAnywhere.",
-      "image": "",
+      "image": "empdatabase",
       "category": "webapp",
       "links": {
         "view": "https://gowri3.pythonanywhere.com/",
@@ -12,8 +12,8 @@
 
   {
     "name": "To do Application ",
-    "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css,javascript,django,bootstrap,python,github,pythonanywhere.",
-    "image": "eight",
+    "desc": "Simple and efficient task management application designed using modern web technologies. Built using HTML, CSS, JavaScript, Django, Bootstrap, Python, GitHub, and PythonAnywhere.",
+    "image": "todo",
     "category": "webapp",
     "links": {
       "view": "https://gowri2.pythonanywhere.com/.",
@@ -23,7 +23,7 @@
   {
     "name": "Employee Management Systems",
     "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css,javascript,django,bootstrap,python,github,Render.",
-    "image": "projects/images/employee.jpg",
+    "image": "employeemanagementsystem",
     "category": "webapp",
     "links": {
       "view": "https://employeemanagementsystem-7-k5c0.onrender.com/",
@@ -42,8 +42,8 @@
   },
   {
     "name": "FoodieApp",
-    "desc": "Full-Stack front end Details based on differenet design patterns. Built using Python,Html,Css.",
-    "image": "Food-on-Farm-Pickles.jpg",
+    "desc": "A responsive and visually appealing food ordering and restaurant showcase application. Built using HTML, CSS, and Bootstrap for a clean UI and smooth user experience.",
+    "image": "Food-on-Farm-Pickles",
     "category": "Frontend",
     "links": {
       "view": "https://gowrisankargalaba.github.io/foodieeapplication/",
@@ -52,8 +52,8 @@
   },
   {
     "name": "Travel-Yari",
-    "desc": "Full-Stack front end Details based on differenet design patterns. Built using Python,Html,Css.",
-    "image": "travel-yari1",
+    "desc": "A modern and responsive travel booking and management application that provides a seamless user experience. Built using HTML, CSS, and Bootstrap for an elegant design and mobile-friendly interface",
+    "image": "travel-yari",
     "category": "Frontend",
     "links": {
       "view": "https://gowrisankargalaba.github.io/travel-yari/",
@@ -62,18 +62,18 @@
   },
   {
     "name": "Most Happening Place",
-    "desc": "Full-Stack front end Details based on differenet design patterns. Built using Html,Css,Bootstrap,js.",
-    "image": " ZestEats",
+    "desc": "A dynamic and interactive food ordering application inspired by fast-food platforms like KFC. Built using HTML, CSS, Bootstrap, JavaScript, and EmailJS for responsive design, smooth navigation, real-time interactivity, and seamless email-based communication. Deployed using GitHub.",
+    "image": "ZestEats",
     "category": "Frontend",
     "links": {
-      "view": "",
+      "view": "https://gowrisankargalaba.github.io/ZestEats/",
       "code": "#"
     }
   },
   {
     "name": "Fees Calculation Appliaction",
-    "desc": "Full-Stack front end Details based on differenet design patterns. Built using Python,Html,Css,JavaScript.",
-    "image": "blog.jpg",
+    "desc": "A simple and efficient application to calculate student/course fees with a clean interface. Built using HTML, CSS, Bootstrap, and JavaScript for responsive design and interactive functionality. Deployed using GitHub.",
+    "image": "feecalculations1",
     "category": "Frontend",
     "links": {
       "view": "https://gowrisankargalaba.github.io/collagefees/",
