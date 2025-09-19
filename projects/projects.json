@@ -2,7 +2,7 @@
     {
       "name": "Employee Management System",
       "desc": "Fully Employee Data Management Details based on different design patterns. Built using Html, Css, Javascript, Django, Bootstrap, Python, GitHub, PythonAnywhere.",
-      "image": "blogapplication",
+      "image": "",
       "category": "webapp",
       "links": {
         "view": "https://gowri3.pythonanywhere.com/",
@@ -33,7 +33,7 @@
   {
     "name": "Blog Application",
     "desc": "Fully Blog Application for creating, updating, and managing blog posts with user authentication and commenting system. Built using Html, Css, Javascript, Django, Bootstrap, Python, GitHub, and PythonAnywhere.",
-    "image": "blogapplication.jpg",
+    "image": "blogapplication",
     "category": "webapp",
     "links": {
       "view": "https://gowrisankargs.pythonanywhere.com/",
@@ -63,10 +63,10 @@
   {
     "name": "Most Happening Place",
     "desc": "Full-Stack front end Details based on differenet design patterns. Built using Html,Css,Bootstrap,js.",
-    "image": "MHP-website.png",
+    "image": " ZestEats",
     "category": "Frontend",
     "links": {
-      "view": "https://gowrisankargalaba.github.io/MHP-website/",
+      "view": "",
       "code": "#"
     }
   },
