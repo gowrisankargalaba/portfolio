@@ -43,7 +43,7 @@
   {
     "name": "FoodieApp",
     "desc": "Full-Stack front end Details based on differenet design patterns. Built using Python,Html,Css.",
-    "image": "foodwebsite1",
+    "image": "Food-on-Farm-Pickles.jpg",
     "category": "Frontend",
     "links": {
       "view": "https://gowrisankargalaba.github.io/foodieeapplication/",
@@ -63,7 +63,7 @@
   {
     "name": "Most Happening Place",
     "desc": "Full-Stack front end Details based on differenet design patterns. Built using Html,Css,Bootstrap,js.",
-    "image": "eight",
+    "image": "MHP-Website.jpg",
     "category": "Frontend",
     "links": {
       "view": "https://gowrisankargalaba.github.io/MHP-website/",
